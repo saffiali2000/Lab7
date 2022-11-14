@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0160db0a-76dd-45c8-81e4-50e56850dee6" name="Changes" comment="Extracted methods from Billable amount" />
+    <list default="true" id="0160db0a-76dd-45c8-81e4-50e56850dee6" name="Changes" comment="Moved method getBillableAmount to class Site">
+      <change beforePath="$PROJECT_DIR$/src/LifelineSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LifelineSite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ResidentialSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ResidentialSite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Site.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Site.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668458228617</updated>
-      <workItem from="1668458231255" duration="3469000" />
+      <workItem from="1668458231255" duration="4080000" />
     </task>
     <task id="LOCAL-00001" summary="Create initial version">
       <created>1668465422082</created>
@@ -71,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668466996190</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Moved method getBillableAmount to class Site">
+      <created>1668467410759</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668467410759</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Moved method getBillableAmount to class Site">
+      <created>1668467444020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668467444020</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create initial version" />
     <MESSAGE value="Extracted methods from Billable amount" />
-    <option name="LAST_COMMIT_MESSAGE" value="Extracted methods from Billable amount" />
+    <MESSAGE value="Moved method getBillableAmount to class Site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved method getBillableAmount to class Site" />
   </component>
 </project>

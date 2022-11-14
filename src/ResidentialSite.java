@@ -6,14 +6,14 @@ public class ResidentialSite extends Site{
         _units = 50;
         _rate = 20;
     }
-
-    private double getTax() {
-        double base = getBase();
+@Override
+    public double getTaxAmount() {
+        double base = getBaseAmount();
         double tax = base* Site.TAX_RATE;
         return tax;
     }
-
-    private double getBase() {
+@Override
+    public double getBaseAmount() {
         double base = _units *_rate;
         return base;
     }
