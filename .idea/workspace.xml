@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0160db0a-76dd-45c8-81e4-50e56850dee6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LifelineSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResidentialSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Site.java" afterDir="false" />
-    </list>
+    <list default="true" id="0160db0a-76dd-45c8-81e4-50e56850dee6" name="Changes" comment="Create initial version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,8 +41,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668458228617</updated>
-      <workItem from="1668458231255" duration="1788000" />
+      <workItem from="1668458231255" duration="2150000" />
     </task>
+    <task id="LOCAL-00001" summary="Create initial version">
+      <created>1668465422082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668465422082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create initial version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create initial version" />
   </component>
 </project>
