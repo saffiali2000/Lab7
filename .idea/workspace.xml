@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0160db0a-76dd-45c8-81e4-50e56850dee6" name="Changes" comment="Extracted methods from Billable amount">
-      <change beforePath="$PROJECT_DIR$/src/ResidentialSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ResidentialSite.java" afterDir="false" />
-    </list>
+    <list default="true" id="0160db0a-76dd-45c8-81e4-50e56850dee6" name="Changes" comment="Extracted methods from Billable amount" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668458228617</updated>
-      <workItem from="1668458231255" duration="3161000" />
+      <workItem from="1668458231255" duration="3469000" />
     </task>
     <task id="LOCAL-00001" summary="Create initial version">
       <created>1668465422082</created>
@@ -66,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668466844931</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Extracted methods from Billable amount">
+      <created>1668466996190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668466996190</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
