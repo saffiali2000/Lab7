@@ -3,6 +3,6 @@ public class Site {
     public Site(){
     }
     public double getBillableAmount(){
-        return getBasemount() + getTaxAmount();
+        return getBaseAmount() + getTaxAmount();
     }
 }
